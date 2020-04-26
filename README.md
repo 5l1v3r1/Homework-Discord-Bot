@@ -1,4 +1,4 @@
-# Kanye-Bot
+# Homework Discord Bot
 ### Python discord bot for all things Kanye West, because why not.
 
 **If you want to invite to your discord server**
